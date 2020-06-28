@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Category">
+        <item>Gündelik</item>
+        <item>Sifrelerim</item>
+        <item>ÖzelGün</item>
+        <item>FaturaTarih</item>
+        <item>Sacma</item>
+    </string-array>
+
+</resources>
