@@ -10,5 +10,5 @@ Yapılacaklar
 
 Arama özelliği daha geliştirilip , tasarım konusunda iyileştirmeler gereklidir.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/note.gif)
 
